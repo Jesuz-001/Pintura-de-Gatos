@@ -204,3 +204,16 @@ body {
   left: 109px;
 
 }
+   <style>
+   .boton {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000000;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+.boton:hover {
+  background-color: #fcd58e;
+}
